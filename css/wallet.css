@@ -44,6 +44,8 @@ div.menubar {
     font-weight:500;
 }
 
+
+
 .menubar ul li a{
     
       display: block;
@@ -51,7 +53,9 @@ div.menubar {
     text-decoration: none;
 }
 
-
+#underline{
+border-bottom: rbg(100, 100, 100);
+}
 
 .addmoney h1 { 
     margin-top:15px;
